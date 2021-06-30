@@ -147,6 +147,10 @@ Stores people's preferences of toppings, and maybe crust styles too, i.e., what 
 
 ### Recipes app
 
+### Recipes App 
+
+Get the list of ingredients, user have and suggest user with list of recipes that can be made with all or some of the listed ingredients.
+
 ### Reddit client
 
 ### Reminders app
